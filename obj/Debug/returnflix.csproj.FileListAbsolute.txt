@@ -1,0 +1,7 @@
+c:\users\matt mccormick\documents\visual studio 2010\Projects\returnflix\bin\returnflix.dll
+c:\users\matt mccormick\documents\visual studio 2010\Projects\returnflix\bin\returnflix.pdb
+c:\users\matt mccormick\documents\visual studio 2010\Projects\returnflix\obj\Debug\ResolveAssemblyReference.cache
+c:\users\matt mccormick\documents\visual studio 2010\Projects\returnflix\obj\Debug\returnflix.dll
+c:\users\matt mccormick\documents\visual studio 2010\Projects\returnflix\obj\Debug\returnflix.pdb
+c:\users\matt mccormick\documents\visual studio 2010\Projects\returnflix\bin\ClrExtensionsCore.Client.dll
+c:\users\matt mccormick\documents\visual studio 2010\Projects\returnflix\bin\WrapNetflix.dll

@@ -1,0 +1,137 @@
+﻿html
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    font-family: Helvetica, Arial, sans-serif;
+    width: 750px;
+    margin: 0px auto;
+    padding: 50px 60px;
+    line-height: 1.5em;
+    text-align: center;
+    font-size: 28px;
+}
+
+a
+{
+    color: #4183C4;
+}
+
+#header
+{
+    padding: 10px 0px;
+}
+
+#header h1
+{
+    font-size: 36px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+#header h1 a
+{
+    text-decoration: none;
+    background-color: #B9090B;
+    color: #ffffff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+#footer
+{
+    color: #999999;
+    font-size: 18px;
+    padding: 30px 0 0 0;
+}
+
+#main
+{
+    padding: 30px 0px;
+}
+
+#main input
+{
+    padding: 10px;
+    font-size: large;
+    font-weight: normal;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.section
+{
+    padding-top: 70px;
+    font-size: 16px;
+    line-height: 1.8em;
+}
+
+.welcome
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+#smile
+{
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);    
+    font-size: 72px;
+    font-weight: bold;
+    line-height: 1em;
+    width: 50px;
+    margin: 0px auto;
+}
+
+form p
+{
+    position: relative;
+}
+
+label
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+input.labelify
+{
+    color: #aaaaaa;
+}
+
+.success
+{
+    background-color: #42A84F;
+    border-bottom: 3px solid #288033;
+    color: white;
+    font: normal normal 500 large/normal Arial, Helvetica, clean, sans-serif;
+    text-align: center;
+}
+
+.warning
+{
+    background-color: #E6C843;
+    border-bottom: 3px solid #C2A213;
+    color: white;
+    font: normal normal 500 large/normal Arial, Helvetica, clean, sans-serif;
+    text-align: center;
+}
+
+.error
+{
+    background-color: #E64343;
+    border-bottom: 3px solid #B53333;
+    color: white;
+    font: normal normal 500 large/normal Arial, Helvetica, clean, sans-serif;
+    text-align: center;
+}
