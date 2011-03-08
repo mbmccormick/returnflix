@@ -19,7 +19,7 @@ The website is accessible via desktop web browser by browsing to the installatio
 
 This application is a web interface. Simply enter the URL that you setup during installation into any web browser and you should have access to the the application. You can then authorize your Netflix account.
 
-A live demo of this application is available at http://returnflix.com.
+A live demo of this application is available at [http://returnflix.com][1].
 
 
 ## Disclaimer
@@ -30,3 +30,5 @@ Use this application at your own risk. While this application has been tested th
 ## License
 
 This software, and its dependencies, are distributed free of charge and licensed under the GNU General Public License v3. For more information about this license and the terms of use of this software, please review the LICENSE.txt file.
+
+[1]: http://returnflix.com
