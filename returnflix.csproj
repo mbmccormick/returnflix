@@ -162,7 +162,9 @@
     <None Include="Scripts\css_browser_selector\.git\refs\heads\master" />
     <None Include="Scripts\css_browser_selector\.git\refs\remotes\origin\HEAD" />
     <None Include="Scripts\css_browser_selector\README.mkdn" />
-    <Content Include="Web.Sample.config" />
+    <Content Include="Web.Sample.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
